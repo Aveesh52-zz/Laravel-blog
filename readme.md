@@ -14,6 +14,5 @@
    * set DB_DATABASE
    * set DB_USERNAME
    * set DB_PASSWORD
-* type `php artisan vendor:publish --provider="Bestmomo\LaravelEmailConfirmation\ServiceProvider" --tag="confirmation:migrations"` to publish email confirmation migration
 * type `php artisan migrate --seed` to create and populate tables
-* edit *.env* for emails configuration
+
